@@ -1,0 +1,14 @@
+mat-toolbar {
+  background-color: #002138;
+  color: white;
+}
+
+.container-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.container-nav div nav a {
+  font-size: 20px;
+}
